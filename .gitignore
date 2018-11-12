@@ -1,0 +1,55 @@
+﻿# Compiled Object files
+*.slo
+*.lo
+*.o
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+
+*.[oa]        #忽略以.o或.a结尾的文件或目录
+*.pyc        
+.*              #忽略以.开头的文件或目录
+*.rar
+*.zip
+*.7z
+*.gz
+*.bz2
+*.db
+*.sqlite
+
+*.ilk
+BuildLog.htm
+*.manifest*
+*.user
+*.obj
+*.idb
+*.ncb
+*.bsc
+*.sbr
+*.pch
+*.plg
+*.res
+*.mep
+*.dep
+*.exp
+*.map
+*.tli
+*.tlh
+*.tmp
+*.log
+*.tlog
+*.sdf
+*.iobj
+*.suo
+*.ipch
+*.opendb
+*.lib
+*.pdb
+debug
+release
